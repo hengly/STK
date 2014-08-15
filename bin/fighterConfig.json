@@ -1,0 +1,74 @@
+[
+  {
+    "name": "bubing",
+    "typeIndex": 0,
+    "animationDesc": {
+      "name": "bubing",
+      "animations": [
+        {
+          "name": "idle",
+          "count": 7
+        }
+      ]
+    },
+    "isGeneral": false,
+    "life" : 100,
+    "atk" : 100,
+    "def" : 0.2,
+    "speed" : 50
+  },
+  {
+    "name": "qibing",
+    "typeIndex": 1,
+    "animationDesc": {
+      "name": "qibing",
+      "animations": [
+        {
+          "name": "idle",
+          "count": 7
+        }
+      ]
+    },
+    "isGeneral": false,
+    "life" : 100,
+    "atk" : 100,
+    "def" : 0.2,
+    "speed" : 40
+  },
+  {
+    "name": "gongbing",
+    "typeIndex": 2,
+    "animationDesc": {
+      "name": "gongbing",
+      "animations": [
+        {
+          "name": "idle",
+          "count": 7
+        }
+      ]
+    },
+    "isGeneral": false,
+    "life" : 100,
+    "atk" : 100,
+    "def" : 0.2,
+    "speed" : 30
+  },
+  {
+    "name": "bubingjiangling",
+    "typeIndex": 0,
+    "animationDesc": {
+      "name": "bubingjiangling",
+      "animations": [
+        {
+          "name": "idle",
+          "count": 7
+        }
+      ]
+    },
+    "isGeneral": true,
+    "life" : 100,
+    "atk" : 100,
+    "def" : 0.2,
+    "speed" : 20
+  }
+]

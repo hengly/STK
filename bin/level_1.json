@@ -1,0 +1,39 @@
+{
+  "name": "x",
+  "life" : 1000,
+  "ai" : "com.chaosTK.logic.SampleAI",
+  "availFighterIndices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "battle": {
+  "background": "background.jpg",
+  "battleDesc": {
+    "colorArray": [
+      {
+        "blue": 1.3,
+        "green": 1.3,
+        "red": 1.3
+      },
+      {
+        "blue": 0.7,
+        "green": 0.7,
+        "red": 0.7
+      }
+    ],
+    "gridDimensionX": 7,
+    "colorCount": 2,
+    "gridSizeY": 64,
+    "otherSideStartX": 800,
+    "playerSideStartY": 0,
+    "gridSizeX": 64,
+    "playerSideStartX": 0,
+    "gridDimensionY": 7,
+    "propOfGeneral": 0.3,
+    "typeIndexCount": 3,
+    "otherSideStartY": 0
+  }
+  }
+}
